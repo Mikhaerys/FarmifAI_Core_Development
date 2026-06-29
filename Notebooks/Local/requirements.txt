@@ -1,0 +1,23 @@
+# Dependencias generales para FarmifAI
+numpy>=1.22,<2.1
+pandas
+matplotlib
+seaborn
+tqdm
+openai
+rank-bm25
+sentence-transformers
+huggingface_hub
+gradio
+nltk
+rouge-score
+sacrebleu
+scikit-learn
+selfcheckgpt
+datasketch
+lexicalrichness
+jinja2
+scipy
+wheel
+ipykernel
+jupyter
