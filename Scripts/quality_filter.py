@@ -12,10 +12,10 @@ from dateutil.parser import ParserError
 # ============================================================
 
 # Archivo de entrada: el resultado de merge.py ({"chunks": [...]})
-input_file = Path("C:/Users/calva/OneDrive/Documentos/Documentacion/Tesis/datasets/nuevos agro-documentos/adicion_dataset.json")
+input_file = Path("...")
 
 # Carpeta de salida (se crea si no existe)
-output_folder = Path("C:/Users/calva/OneDrive/Documentos/Documentacion/Tesis/datasets/nuevos agro-documentos/filtro_calidad")
+output_folder = Path("...")
 
 # Archivos de salida
 clean_output_file = output_folder / "chunks_limpios.json"          # aceptados, listos para usar
